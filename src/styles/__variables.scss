@@ -1,0 +1,48 @@
+
+// Fonts
+
+$gilroy: sans-serif;
+
+// Fonts style
+
+%fs-12 {
+  font-size: 12px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-family: $gilroy
+}
+
+%fs-15 {
+  font-size: 15px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-family: $gilroy;
+}
+
+%fs-17 {
+  font-size: 17px;
+  line-height: 1.2;
+  font-weight: 400;
+  font-family: $gilroy;
+}
+
+%fs-23 {
+  font-size: 23px;
+  line-height: 1.2;
+  font-weight: 600;
+  font-family: $gilroy;
+}
+
+// Colors
+
+$white-c: #fff;
+$dark-c: #00284F;
+$grey-01: rgba(0, 40, 79, 0.1);
+$grey-03: rgba(0, 40, 79, 0.3);
+$grey-04: rgba(0, 40, 79, 0.4);
+$grey-05: rgba(237, 237, 237, 0.5);
+$grey-f9: #F9F9F9;
+$grey-f2: #F2F2F2;
+$grey-ef: #EFEFEF;
+
+// Styles
