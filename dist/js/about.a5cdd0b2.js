@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkperla_helsa"]=self["webpackChunkperla_helsa"]||[]).push([[443],{7381:function(a,e,n){n.r(e),n.d(e,{default:function(){return o}});var r=n(3396);const s={class:"about"},u=(0,r._)("h1",null,"This is an about page",-1),t=[u];function l(a,e){return(0,r.wg)(),(0,r.iD)("div",s,t)}var c=n(89);const i={},h=(0,c.Z)(i,[["render",l]]);var o=h}}]);
+//# sourceMappingURL=about.a5cdd0b2.js.map
